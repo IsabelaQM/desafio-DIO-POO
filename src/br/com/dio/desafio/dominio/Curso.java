@@ -28,5 +28,6 @@ public class Curso extends Conteudo{
                 ", descricao='" + getDescricao() + '\'' +
                 ", cargaHoraria=" + cargaHoraria +
                 '}';
+        // Carga horária está acessível porque pertence a classe Curso
     }
 }

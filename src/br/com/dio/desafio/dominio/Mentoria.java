@@ -2,6 +2,7 @@ package br.com.dio.desafio.dominio;
 
 import java.time.LocalDate;
 
+//A classe Mentoria é filha da classe Conteudo
 public class Mentoria extends Conteudo{
 
     private LocalDate data;
